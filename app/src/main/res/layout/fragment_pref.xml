@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.preference.PreferenceScreen
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+
+        <Preference
+            android:key="api_key"
+            android:title="@string/api_key_title"
+            android:summary="@string/api_key_summary" />
+
+
+
+    </androidx.preference.PreferenceScreen>
+
+</android.support.constraint.ConstraintLayout>

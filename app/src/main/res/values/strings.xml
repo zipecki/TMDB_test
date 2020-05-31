@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TMDB app</string>
+    <string name="action_settings">Settings</string>
+    <string name="item_rating">Rating: </string>
+    <string name="item_popularity">Popularity: </string>
+    <string name="api_key_title">API key</string>
+    <string name="api_key_summary">Key to access the TMDB API</string>
+</resources>
